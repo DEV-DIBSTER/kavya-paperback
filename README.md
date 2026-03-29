@@ -25,4 +25,4 @@ Set up page size in kavya setting page, 20 for iOS and 40 for iPadOS (Default is
 
 # License:
 
-Yes
+Yes/No
