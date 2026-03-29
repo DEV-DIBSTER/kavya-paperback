@@ -1,11 +1,14 @@
 # Kavya ![Generic badge](https://img.shields.io/badge/version-1.3.6-green.svg)
 Kavya, A [Kavita](https://www.kavitareader.com/) client extension, for [Paperback](https://paperback.moe/)
 
+GitHub: [DEV-DIBSTER/kavya-paperback](https://github.com/DEV-DIBSTER/kavya-paperback)
 
 ## Installation source
-You can install paperback extension source from below url
+You can install the Paperback extension source from the URL below, or tap the button to add it directly in the app.
 
-[`https://ACK72.github.io/kavya-paperback`](https://ACK72.github.io/kavya-paperback)
+[`https://DEV-DIBSTER.github.io/kavya-paperback`](https://DEV-DIBSTER.github.io/kavya-paperback)
+
+[![Add to Paperback](https://img.shields.io/badge/Add%20to-Paperback-blue)](paperback://addRepo?displayName=DEV-DIBSTER%27s%20Extensions&url=https%3A%2F%2FDEV-DIBSTER.github.io%2Fkavya-paperback)
 
 ## Requirements
 - 0.8 or newer version of Paperback
