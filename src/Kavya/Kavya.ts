@@ -157,7 +157,7 @@ export class Kavya implements ChapterProviding, HomePageSectionsProviding, Manga
 
 		const pages: string[] = [];
 		for (let i = 0;i < result.pages;i++) {
-			pages.push(`FAKE*/${i}?*REAL*${kavitaAPI.url}/Reader/image?chapterId=${chapterId}&page=${i}&apiKey=${kavitaAPI.key}&extractPdf=true`);
+			pages.push(`${kavitaAPI.url}/Reader/image?chapterId=${chapterId}&page=${i}&apiKey=${kavitaAPI.key}&extractPdf=true`);
 		}
 
 		return App.createChapterDetails({
